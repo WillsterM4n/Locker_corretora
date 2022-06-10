@@ -1,2 +1,3 @@
 # Locker_corretora
-Site da corretora de seguros Locker
+
+# Projeto de Landing Page sobre a Empresa Locker, Corretora de Seguros

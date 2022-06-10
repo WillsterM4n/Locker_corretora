@@ -1,0 +1,21 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html { font-size: 100%;
+    background: linear-gradient(to right, #F00, #8383,#595f58);
+
+}
+
+.logo 
+ 
+
+.botao_cotacao {
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    justify-content: space-around;
+}
+
